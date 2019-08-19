@@ -6,7 +6,7 @@
 
 ## 成果展示
 
-![](
+![](https://github.com/hsuhsuanwen/michellediary/raw/master/demo.png)
 
 # 使用技術
 名稱   |   說明
